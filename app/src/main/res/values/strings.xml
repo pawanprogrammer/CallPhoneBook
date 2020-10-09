@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TabbedActivity</string>
+    <string name="tab_text_1">PhoneBook</string>
+    <string name="tab_text_2">Add No</string>
+</resources>
